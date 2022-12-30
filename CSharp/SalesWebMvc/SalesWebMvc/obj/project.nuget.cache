@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9ib3XiUTCr4IBpCYgfBVUS6rp6oXm+cHCSkTaA/f6PyCuTIHNp9mg3v7sSxhhdyRqX4zUe11y1VOm6DJkCLeQ==",
+  "dgSpecHash": "JhRrGcnq1bgow6U2AmrBnwYLtuzhbhX2vtv8bUjJJD5sh0crQluArhytjHQLC289bi2iZGFNCLeFnHFaaRuxbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leona\\source\\repos\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "C:\\Users\\leona\\source\\repos\\Projects\\CSharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
