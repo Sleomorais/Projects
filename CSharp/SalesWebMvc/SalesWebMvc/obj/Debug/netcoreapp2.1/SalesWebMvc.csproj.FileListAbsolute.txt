@@ -75,3 +75,6 @@ C:\Users\leona\source\repos\Projects\CSharp\SalesWebMvc\SalesWebMvc\bin\Debug\ne
 C:\Users\leona\source\repos\Projects\CSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\leona\source\repos\Projects\CSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\leona\source\repos\Projects\CSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\leona\source\repos\Projects\CSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\leona\source\repos\Projects\CSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\leona\source\repos\Projects\CSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
